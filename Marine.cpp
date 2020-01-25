@@ -18,3 +18,5 @@ void Marine::attack(Location location) {
 	Unit::attack(location);
 	std::cout << "pew pew" << std::endl;
 }
+
+//malomalo
